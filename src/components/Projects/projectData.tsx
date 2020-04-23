@@ -23,7 +23,7 @@ const projects = [
         description:
             "A 2 player dice game where you play as a Game Of Thrones character. Can you escape? The game was made as my semester project while studying frontend development at Noroff.",
         image: escape,
-        link: "https://rajohan.no/school/escape"
+        link: "https://the-escape.herokuapp.com/"
     },
     {
         name: "Natours",
