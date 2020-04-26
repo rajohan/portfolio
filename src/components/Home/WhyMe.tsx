@@ -15,21 +15,19 @@ const WhyMe: React.FC = (): React.ReactElement => {
     return (
         <StyledWhyMe>
             <p>
-                There are many benefits to working with a freelance web developer. When I work on a project, I will be
-                the main point of contact at all times avoiding any communication delays that might occur with larger
+                There are many benefits to working with a freelance web developer. You will only have one person
+                communicating with you, that means less communication delays which often will happen with larger
                 companies.
             </p>
             <p>
-                I have an unfair advantage over most of the competition when it comes to prices. While they need to pay
-                for their office, their staff, their advertising and many other business expenses. I don&apos;t. Which
-                means you avoid paying large overheads. By choosing me, you can be sure that you only pay for your
-                website, and not the company picnic.
+                As a freelancer I have an unfair advantage over companies when it comes to the prices. While they need
+                to pay for their office, their staff, their advertising and many other business expenses. I don&apos;t.
+                Which means I can afford to be cheaper. By choosing me, you can get an amazing website for less money.
             </p>
             <p>
-                I can complete your project at a rapid pace in less time than the typical bureaucratic company can. Most
-                design agencies can take months to build a website for you. Meanwhile, you are missing out on customer
-                orders, website traffic, search engine indexing, and greater visibility on the web from social media
-                links to your website.
+                I can complete your project fast and often in less time than a company can. Most companies can take
+                months to build a website for you. In that time you are missing out on visitors and people needing your
+                services. Dont let the competitors steal your visitors.
             </p>
         </StyledWhyMe>
     );

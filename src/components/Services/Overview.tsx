@@ -54,26 +54,27 @@ const Overview: React.FC = (): React.ReactElement => {
                 <Web />
                 <Heading size="h3">Web design</Heading>
                 <p>
-                    The design of a website is important because it affects how quickly visitors can find what they are
-                    looking for. If it is difficult or frustrating, the visitor will leave and try on another site and
-                    that is a lost opportunity.
+                    The design of a website is very important. The visitors are more likely to stay at your website if
+                    they find what they are looking for quickly. I make sure that it is easy for the user to navigate
+                    your page.
                 </p>
             </div>
             <div>
                 <Code />
                 <Heading size="h3">Website Development</Heading>
                 <p>
-                    Website development is a way to make people aware of your business, understand why your products are
-                    relevant, and see which of your company qualities that set it apart from the competitors.
+                    Website development is a way to promote your business and show what you are offering. With a good
+                    website it is more likely that you will stand out and make the visitor use you instead of your
+                    competitors.
                 </p>
             </div>
             <div>
                 <Language />
                 <Heading size="h3">Search engine optimization</Heading>
                 <p>
-                    In today&apos;s competitive market, SEO is more important than ever. Search engines serve millions
-                    of users per day looking for answers or solutions to their problems. SEO can help your business grow
-                    and meet the business goals.
+                    A lot of people use search engines to find answers to their problems every day. It is very important
+                    to have a website that is optimized for the search engines so your website shows up before your
+                    competitors.
                 </p>
             </div>
         </StyledOverview>
